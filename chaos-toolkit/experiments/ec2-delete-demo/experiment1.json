@@ -45,7 +45,7 @@
 		"name": "website-must-still-respond",
 		"provider": {
 			"type": "http",
-			"url": "http://3.13.17.32/cafe/"
+			"url": "http://16.170.176.179/cafe/"
 		}
 	},
 	{
@@ -83,7 +83,7 @@
 		"name": "website-must-still-respond",
 		"provider": {
 			"type": "http",
-			"url": "http://3.13.17.32/cafe/"
+			"url": "http://16.170.176.179/cafe/"
 		}
 	},
 	{
@@ -106,7 +106,7 @@
 		"name": "website-must-still-respond",
 		"provider": {
 			"type": "http",
-			"url": "http://3.13.17.32/cafe/"
+			"url": "http://16.170.176.179/cafe/"
 		}
 	}
 	]
